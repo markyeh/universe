@@ -1,0 +1,19 @@
+{
+  "packagingVersion": "2.0",
+  "name": "caffeonspark",
+  "version": "0.0.1",
+  "scm": "http://hg.nginx.org/nginx/",
+  "description": "caffeonspark package",
+  "maintainer": "sgulogs.fred@gmail.com",
+  "tags": ["caffeonspark", "web-server"],
+  "preInstallNotes": "Preparing to install caffeonspark.",
+  "postInstallNotes": "caffeonspark is getting installed.",
+  "postUninstallNotes": "caffeonspark is uninstalled successfully.",
+  "licenses": [
+    {
+      "name": "BSD like",
+      "url": "http://nginx.org/LICENSE"
+    }
+  ]
+}
+
